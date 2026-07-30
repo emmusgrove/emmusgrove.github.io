@@ -1,0 +1,12 @@
+---
+title: "Pwnagotchi: Deauthentication Attacks, WPA Handshakes, and Wireless Network Security"
+collection: publications
+category: manuscripts
+permalink: /publications/Pwnagotchi
+excerpt: 'Wireless networks are the foundation of modern device communication infrastructure. This paper details a project which sought to examine the security implications of automated WPA/WPA2 handshake collection using the Pwnagotchi, a portable Wi-Fi network auditing and penetration testing device. The paper provides a technical analysis of WPA and WPA2 authentication mechanisms, including the structure of the 4-way handshake, the creation of cryptographic keys, and the role of deauthentication attacks in forcing reconnections for handshake capture. Additionally, the project explores the vulnerabilities associated with using legacy wireless security protocols such as WEP and TKIP to allow for older technologies that continue to require such encryption methods. This research also investigates the machine learning architecture utilized by the Pwnagotchi, including its implementation of Long Short-Term Memory (LSTM) and an Advantage Actor-Critic (A2C) reinforcement learning model to optimize scanning and 4-way handshake capture. For this research, a functioning Pwnagotchi device was created and configured using commercially available hardware and open-source software. Beyond a technological analysis, this paper also evaluates the legal implications of widespread access to automated wireless penetration-testing devices, with a focus on their accessibility to inexperienced users and potential for misuse. Finally, this project also examines potential defensive countermeasures, including Protected Management Frames (802.11w), WPA3-SAE, network isolation, and recommended password security standards. Through this analysis, the paper argues that while devices such as the Pwnagotchi have valid educational and research purposes, their accessibility to the untrained public and ability to automate wireless network attacks raises important concerns about wireless network security and public awareness of cybersecurity.'
+date: 2026-05-14
+venue: 'DigitalCommons@Ursinus'
+paperurl: 'https://digitalcommons.ursinus.edu/comp_hon/3/'
+citation: 'Musgrove, Emily, "Pwnagotchi: Deauthentication Attacks, WPA Handshakes, and Wireless Network Security" (2026). Computer Science Honors Papers. 3.
+https://digitalcommons.ursinus.edu/comp_hon/3'
+---
